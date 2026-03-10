@@ -48,8 +48,14 @@ export default function Footer() {
               Talanta Ministries International - a community of believers committed
               to the Great Commission. Go Ye Into All The World.
             </p>
-            <p className="text-sm text-gray-500">
-              talantaministriesinte@gmail.com
+            <p className="text-sm text-gray-400 mb-1">
+              (+254) 791970332
+            </p>
+            <p className="text-sm text-gray-400 mb-1">
+              talanata@gmail.com
+            </p>
+            <p className="text-sm text-gray-400">
+              Machakos ASK Show Ground
             </p>
           </motion.div>
 

@@ -110,8 +110,16 @@ export default function Contact() {
 
               <div className="space-y-8 mb-12">
                 <div>
+                  <h3 className="font-semibold text-gray-900 mb-2">Phone</h3>
+                  <p className="text-gray-600">(+254) 791970332</p>
+                </div>
+                <div>
                   <h3 className="font-semibold text-gray-900 mb-2">Email</h3>
-                  <p className="text-gray-600">talantaministriesinte@gmail.com</p>
+                  <p className="text-gray-600">talanata@gmail.com</p>
+                </div>
+                <div>
+                  <h3 className="font-semibold text-gray-900 mb-2">Location</h3>
+                  <p className="text-gray-600">Machakos ASK Show Ground</p>
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-2">Service Times</h3>

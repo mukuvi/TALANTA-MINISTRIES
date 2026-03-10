@@ -18,7 +18,6 @@ const footerLinks = {
     { label: 'Instagram', url: 'https://www.instagram.com/' },
     { label: 'Facebook', url: 'https://www.facebook.com/' },
     { label: 'YouTube', url: 'https://www.youtube.com/' },
-    { label: 'WhatsApp', url: 'https://web.whatsapp.com/' },
   ],
 }
 
